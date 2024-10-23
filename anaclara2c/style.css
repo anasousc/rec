@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(241, 177, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: rgb(180, 41, 150) solid 3px;
+}
+
+img{
+    border-radius: 120px;
+    width: 100px;
+}
